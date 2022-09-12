@@ -2,7 +2,7 @@
 
 1.Clone the project <br>
 ```
-https://github.com/cfgmum22/team-71
+https://github.com/ksribhuvana/todolist.git
 ```
 <br><br>
 2.Install all the npm packages <br>
