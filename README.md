@@ -12,5 +12,5 @@ npm install
 <br><br>
 
 3.Start  <br>
-``
+```
 npm start
